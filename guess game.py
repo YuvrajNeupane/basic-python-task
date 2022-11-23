@@ -17,4 +17,6 @@ while guess != jackpot:
     
 else:
     print('Correct.')
-    print(counter,'atempt.')
+    print(counter,'Times.')
+
+
